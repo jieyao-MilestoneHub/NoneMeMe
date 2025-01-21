@@ -1,10 +1,12 @@
-# NoneMeMe 代幣智能合約
+# The NoneMeMe Token Smart Contract
+Merging the ethos of "nothing really matters" with the enduring value of "dreams still shine bright," this contract retains the fundamental functionalities of an ERC20 token while sprinkling it with a pinch of existential philosophy. Built on the OpenZeppelin Upgradeable framework, it ensures that future upgrades and enhancements are only a proxy away.
 
-融合了「甚麼都不重要」與「夢想依舊可貴」的概念，同時保留 ERC20 代幣基本功能。
-此合約基於 OpenZeppelin Upgradeable，可在未來透過代理合約（Proxy）進行升級，增添或修改功能。
+Key Features:
+Upgradeable Awesomeness:
+Leveraging a proxy-based architecture, the contract is fully upgradeable, allowing seamless addition of new features or bug fixes. Dreams may evolve, and so can your tokens.
 
-- 合約特色：
+Dream-Centric Design:
+A dream isn’t just a dream—it’s a stored value. The contract supports dream storage and emits events to commemorate each update, symbolizing resilience in the face of cosmic voids.
 
-- 可升級：使用代理合約模式（Proxy），未來可自由擴充新功能或修補問題。
-- 夢想概念：包含「夢想」的儲存與事件，象徵即使一切虛無，仍要堅持夢想。
-- 程式難度適中：保留 ERC20 核心，並加入少量自定義邏輯。
+Moderate Programming Complexity:
+Retaining ERC20's essential brilliance, with a touch of custom logic to keep things spicy yet manageable for developers.
